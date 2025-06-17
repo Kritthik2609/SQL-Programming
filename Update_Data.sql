@@ -1,0 +1,7 @@
+SET SQL_SAFE_UPDATES = 0;
+
+UPDATE student
+SET ID = 7
+WHERE Name = "Marco";
+
+SET SQL_SAFE_UPDATES = 1;
