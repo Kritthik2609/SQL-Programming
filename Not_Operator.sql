@@ -1,0 +1,3 @@
+SELECT *
+FROM student
+WHERE NOT Age = 25;
