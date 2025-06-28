@@ -1,0 +1,3 @@
+SELECT *
+FROM student
+WHERE Age BETWEEN 26 AND 29;
